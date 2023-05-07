@@ -5,5 +5,6 @@
 
 - dmr.nd.gov/oilgas/riglist.asp
 ## imports
--- beautifulsoup4
--- pandas
+- beautifulsoup4
+
+- pandas
